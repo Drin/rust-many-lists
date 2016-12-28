@@ -1,0 +1,10 @@
+[package]
+name = "lists"
+version = "0.1.0"
+authors = ["Drin <drinmontana@gmail.com>"]
+
+[dependencies]
+libc = "0.2.18"
+
+[dev-dependencies]
+#compiletest_rs = "0.2.5"
